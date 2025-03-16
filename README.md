@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 <img alt="Kitty Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlwZjZycmxmOTB6dmE0MnRza2xwNzg2azN4aGM1M250MjJ6N3Y3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" align="right" width="300px"/>-->
 
 ## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoibolina&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoibolina&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=shoibolina&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoibolina&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
 
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true" /></p>
 
 <!--### 🖋️ Random Dev Quote -->
-<!--<div align="center">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</div>-->
+</div>
 
 <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
