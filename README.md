@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Shoibolina (she/her/hers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shoibolina-kaushik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shoibolina.kaushik@gmail.com) 
-![Profile Views](https://komarev.com/ghpvc/?username=shoibolina&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=shoibolina&color=c133ff)
 <!--
 **shoibolina/shoibolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 👩🏻‍💻 I contribute to machine learning projects to stay consistent and deepen my knowledge <br/>
 🗺️ Currently working on Image segmentation model for Atlanta maps over 150+ years <br/>
 🌱 When I'm not coding, I’m probably hiking in nature or exploring boba tea spots around town <br/>
-![Actively seeking Software Engineering roles](https://img.shields.io/badge/⚡️-Actively%20Seeking%20Software%20Engineering%20Roles-red)
-[![Resume](https://img.shields.io/badge/📄-View%20My%20Resume-blue)](https://drive.google.com/file/d/1H3yxL9vNDxR8dyM-WcmiayPajIPjcR-7/view?usp=sharing)
+![Actively seeking Software Engineering roles](https://img.shields.io/badge/-Actively%20Seeking%20Software%20Engineering%20Roles-33ffef) &nbsp;
+[![Resume](https://img.shields.io/badge/-View%20My%20Resume-3433ff)](https://drive.google.com/file/d/1H3yxL9vNDxR8dyM-WcmiayPajIPjcR-7/view?usp=sharing)
 
 
 ## 💻 Tech Stack:
