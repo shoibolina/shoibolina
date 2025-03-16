@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoibolina&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=shoibolina&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
