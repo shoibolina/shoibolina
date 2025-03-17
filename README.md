@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoibolina&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /></p>
 
-<p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true&include_all_commits=true" /></p>
+<p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true" /></p>
 
 <!--### 🖋️ Random Dev Quote -->
 <div align="center">
