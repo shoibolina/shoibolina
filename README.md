@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoibolina&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoibolina&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoibolina&theme=dark&hide_border=true&include_all_commits=false&count_private=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoibolina&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /></p>
 
-<p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true" /></p>
+<p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true&include_all_commits=true" /></p>
 
 <!--### 🖋️ Random Dev Quote -->
 <div align="center">
