@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoibolina&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600" /></p>
 
 <!-- GitHub Streak Stats -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shoibolina&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" /></p>
-<!-- <p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true" /></p>
+<p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true"/></p>
+<!--  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shoibolina&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" /></p>
 ![](https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true) -->
 
 <!--### 🖋️ Random Dev Quote -->
