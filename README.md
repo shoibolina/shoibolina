@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: When I'm not coding, I’m probably hiking in nature or xploring boba tea spots around town.
 -->
-👩🏻‍🎓 Master of Science student in Computer Science at Emory University (USA), graduating May 2025 <br/>
+👩🏻‍🎓 Master of Science in Computer Science at Emory University (USA), graduated May 2025 <br/>
 👩🏻‍💻 I contribute to machine learning projects to stay consistent and deepen my knowledge <br/>
 🗺️ Currently working on Image segmentation model for Atlanta maps over 150+ years <br/>
 🌱 When I'm not coding, I’m probably hiking in nature or exploring boba tea spots around town <br/>
