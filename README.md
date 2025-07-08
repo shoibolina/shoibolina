@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoibolina&layout=compact&theme=dark&hide_border=true&count_private=true&cache_seconds=3600" /></p>
 
 <!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoibolina&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoibolina&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoibolina&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" /></p>
 
 <!-- GitHub Streak Stats -->
 <p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shoibolina&theme=dark&hide_border=true"/></p>
