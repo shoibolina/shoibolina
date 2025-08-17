@@ -1,9 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Shoibolina (she/her/hers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shoibolina-kaushik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shoibolina.kaushik@gmail.com) 
-![Profile Views](https://komarev.com/ghpvc/?username=shoibolina&color=c133ff)
-<!--[![Website](https://img.shields.io/badge/Website?style=for-the-badge&color=7FFFD4)](https://shoibolina.github.io/)
-![Static Badge](https://img.shields.io/badge/Website?style=for-the-badge&color=Aquamarine&link=https%3A%2F%2Fshoibolina.github.io%2F)-->
-[![Website](https://img.shields.io/badge/Visit%20my%20site-gold?style=for-the-badge)](https://shoibolina.github.io/)
+![Profile Views](https://komarev.com/ghpvc/?username=shoibolina&color=c133ff) &nbsp;
+[![Resume](https://img.shields.io/badge/-View%20My%20Resume-3433ff?style=plastic)](https://drive.google.com/file/d/1H3yxL9vNDxR8dyM-WcmiayPajIPjcR-7/view?usp=sharing)
 
 
 <!--
@@ -27,7 +25,7 @@ Here are some ideas to get you started:
 🌱 When I'm not coding, I’m probably hiking in nature or exploring boba tea spots around town <br/>
 <!--![Actively seeking Software Engineering roles](https://img.shields.io/badge/-Actively%20seeking%20Software%20Engineering%20roles-33ffef) &nbsp;-->
 ![Open to suitable roles](https://img.shields.io/badge/-Open%20to%20suitable%20roles-33ffef) &nbsp;
-[![Resume](https://img.shields.io/badge/-View%20My%20Resume-3433ff)](https://drive.google.com/file/d/1H3yxL9vNDxR8dyM-WcmiayPajIPjcR-7/view?usp=sharing)
+[![Website](https://img.shields.io/badge/Visit%20my%20site-gold?style=for-the-badge)](https://shoibolina.github.io/)
 
 
 ## 💻 Tech Stack:
