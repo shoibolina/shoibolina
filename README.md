@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 👩🏻‍💻 I contribute to machine learning projects to stay consistent and deepen my knowledge <br/>
 🗺️ Currently working on Image segmentation model for Atlanta maps over 150+ years <br/>
 🌱 When I'm not coding, I’m probably hiking in nature or exploring boba tea spots around town <br/>
-![Actively seeking Software Engineering roles](https://img.shields.io/badge/-Actively%20seeking%20Software%20Engineering%20roles-33ffef) &nbsp;
+<!--![Actively seeking Software Engineering roles](https://img.shields.io/badge/-Actively%20seeking%20Software%20Engineering%20roles-33ffef) &nbsp;-->
+![Open to suitable roles](https://img.shields.io/badge/-Open%20to%20suitable%20roles-33ffef) &nbsp;
 [![Resume](https://img.shields.io/badge/-View%20My%20Resume-3433ff)](https://drive.google.com/file/d/1H3yxL9vNDxR8dyM-WcmiayPajIPjcR-7/view?usp=sharing)
 
 
